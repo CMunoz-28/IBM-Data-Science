@@ -4,7 +4,7 @@
 
 Welcome to the GitHub repository for my Data Science capstone project on the SpaceX program. This project showcases a comprehensive analysis of SpaceX's launch data, leveraging the full potential of Python, SQL, and data visualization techniques.
 
-### Key Features
+### Key Areas:
 
 1. **Data Collection and Preprocessing**:
    - Utilized Python for data extraction and preprocessing.
